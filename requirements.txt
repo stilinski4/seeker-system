@@ -1,0 +1,19 @@
+# Seeker System - Requirements
+# Install: pip install -r requirements.txt --break-system-packages
+
+# Computer Vision & AI
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# Web Dashboard
+flask>=3.0.0
+
+# Drone Communication
+pymavlink>=2.4.40
+
+# System Monitoring
+psutil>=5.9.0
+
+# Camera (Raspberry Pi only - install via apt, not pip)
+# sudo apt install -y python3-picamera2

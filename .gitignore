@@ -1,0 +1,23 @@
+# Model weights (file besar, upload manual atau pakai Git LFS)
+models/*.pt
+
+# Output hasil sistem
+outputs/
+
+# Video test
+videos/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
