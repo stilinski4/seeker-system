@@ -1,4 +1,5 @@
-# Seeker System — Drone Target Tracker
+# LOW-COST TARGET TRACKER (HIT & LOCK SYSTEM) UNTUK DRONE
+
 
 Low-cost autonomous target detection, tracking, and locking system for drone platforms. Built on Raspberry Pi 5 with YOLOv8/YOLOv11 + ByteTrack + Kalman Filter, communicating via MAVLink to a Pixhawk flight controller.
 
