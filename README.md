@@ -95,7 +95,7 @@ Copy your `.pt` model files into the `models/` folder manually (not tracked by G
 Edit `VIDEO_INPUT` path in `realtime_seeker.py`, then:
 
 ```bash
-python realtime_seeker.py
+python test_footage.py
 ```
 
 Output video saved to `outputs/`. Open browser at `http://<IP_RASPY>:5000` to view dashboard.
@@ -103,7 +103,7 @@ Output video saved to `outputs/`. Open browser at `http://<IP_RASPY>:5000` to vi
 ### Run offline test
 
 ```bash
-python test_footage.py
+python realtime_seeker.py
 ```
 
 ### View web dashboard
